@@ -1,0 +1,5 @@
+{
+  "name": "sales-command-center",
+  "version": "0.1.0",
+  "description": "Daily AI companion for sales reps. Generates account research briefs, pre-call prep, post-call processing (SPICED, follow-up emails, opp updates, tasks), and pre-forecast pipeline briefings."
+}
