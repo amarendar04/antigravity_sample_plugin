@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "cdata": {
-      "url": "https://mcp.cloud.cdata.com/mcp",
+      "serverUrl": "https://mcp.cloud.cdata.com/mcp",
       "headers": {
         "Authorization": "Basic ${CDATA_AUTH}"
       }
