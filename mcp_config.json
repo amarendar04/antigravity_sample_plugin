@@ -3,7 +3,7 @@
     "cdata": {
       "url": "https://mcp.cloud.cdata.com/mcp",
       "headers": {
-        "Authorization": "Basic ${CDATA_AUTH}"
+        "Authorization": "Basic ${CDATA_kk_AUTH}"
       }
     }
   }
